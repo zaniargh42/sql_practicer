@@ -1,6 +1,3 @@
-Here's a `README.md` for your GitHub repo:
-
-```markdown
 # SQL Dialect to SQLite Runner
 
 A Streamlit web app that allows you to input SQL in various dialects, automatically converts it to SQLite-compatible SQL, and runs it against the Chinook sample database.
