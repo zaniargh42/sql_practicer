@@ -39,6 +39,4 @@ streamlit run app.py
 ## License
 
 MIT
-```
 
-Let me know if you want me to generate `requirements.txt` or `.streamlit/config.toml`.
